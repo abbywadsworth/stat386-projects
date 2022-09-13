@@ -9,4 +9,9 @@ image: /assets/images/lighthouse.jpg
 
 Here is my thing
 #Here is my thing
+
+---
+image: /assets/images/lighthouse.jpg
+
+---
 ##Here is my thing
