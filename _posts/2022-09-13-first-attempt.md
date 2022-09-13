@@ -15,3 +15,5 @@ image: /assets/images/lighthouse.jpg
 
 ---
 ##Here is my thing
+
+![This is an image](C:\Users\Abby Wadsworth\Documents\BYU 2022\Fall\Stat386\stat386-projects\assets\images\lighthouse.jpg)
