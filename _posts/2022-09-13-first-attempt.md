@@ -7,3 +7,5 @@ description: this is my first time doing a blog post
 image: /assets/images/blog-image.jpg
 ---
 
+
+Here is my thing
