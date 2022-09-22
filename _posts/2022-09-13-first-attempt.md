@@ -7,7 +7,7 @@ description: this is my first time doing a blog post
 image: /assets/images/lighthouse.jpg
 ---
 
-Here is my thing
+Here is my thing!
 #Here is my thing
 
 ---
