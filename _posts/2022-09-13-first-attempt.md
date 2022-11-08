@@ -20,7 +20,7 @@ $$V_{sphere} = \frac{4}{3}\pi r^3$$
 image: /assets/images/lighthouse.jpg
 
 ---
-##Here is my thing
+##Here is my thingl
 
 ![This is an image](C:\Users\Abby Wadsworth\Documents\BYU 2022\Fall\Stat386\stat386-projects\assets\images\lighthouse.jpg)
 
