@@ -5,6 +5,7 @@ date:   2022-09-13
 author: Abby Wadsworth
 description: this is my first time doing a blog post
 image: /assets/images/lighthouse.jpg
+\usepackage{markdown}
 ---
 
 Here is my thing!
